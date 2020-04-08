@@ -1,0 +1,88 @@
+@font-face {font-family: "iconfont";
+	src: url('~@/static/iconfont/iconfont.ttf'); /* IE9 */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-circle-fill:before {
+  content: "\e605";
+}
+
+.icon-shixinyuan:before {
+  content: "\e66b";
+}
+
+.icon-shixinyuan1:before {
+  content: "\e632";
+}
+
+.icon-shixinyuan2:before {
+  content: "\e606";
+}
+
+.icon-shixinyuan3:before {
+  content: "\e61c";
+}
+
+.icon-weibiaoti:before {
+  content: "\e6b7";
+}
+
+.icon-yuanquan10:before {
+  content: "\e604";
+}
+
+.icon-yuanquan1:before {
+  content: "\e6c2";
+}
+
+.icon-erecordlajitong:before {
+  content: "\e6bf";
+}
+
+.icon-guangchang1:before {
+  content: "\e603";
+}
+
+.icon-zan1:before {
+  content: "\e601";
+}
+
+.icon-huifu2:before {
+  content: "\e602";
+}
+
+.icon-redian:before {
+  content: "\e60a";
+}
+
+.icon-fenxiang:before {
+  content: "\e76f";
+}
+
+.icon-liuyan1:before {
+  content: "\e63c";
+}
+
+.icon-guangchang:before {
+  content: "\e627";
+}
+
+.icon-wode:before {
+  content: "\e614";
+}
+
+.icon-liuyan:before {
+  content: "\e62e";
+}
+
+.icon-fanhui-copy-copy-copy:before {
+  content: "\e600";
+}
+
